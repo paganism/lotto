@@ -1,5 +1,7 @@
 .vscode
 __pycache__/
+*/__pycache__/*
+lotto_game/__pycache__
 
 venv
 .env
